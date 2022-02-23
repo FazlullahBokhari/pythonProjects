@@ -1,4 +1,4 @@
-from pythonFunctions.Logpkg import logmod as lg
+from Logpkg import logmod as lg
 
 def lsappend(ls1,var):
     '''This function is to append the value lists passed in to the end of the list'''
