@@ -1,0 +1,26 @@
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function lspop is called to process [1, 2, 3, 4, 5, 6, 7, 8, 9] and 5
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function lsappend is called to process [] and 1
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function lsappend is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function lsappend is called to process [1] and 2
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function lsappend is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function lsappend is called to process [1, 2] and 3
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function lsappend is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function lsappend is called to process [1, 2, 3] and 4
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function lsappend is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function lsappend is called to process [1, 2, 3, 4] and 5
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function lsappend is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function lsappend is called to process [1, 2, 3, 4, 5] and 7
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function lsappend is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function lsappend is called to process [1, 2, 3, 4, 5, 7] and 8
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function lsappend is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function lsappend is called to process [1, 2, 3, 4, 5, 7, 8] and 9
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function lsappend is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function lspop is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function dtget is called to process {'name': 'Faiz', 'email': 'fazlullahb@gmail.com', 'mob': 9873300865} and name
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function dtget is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 15: The function stadd is called to process <module 'setpkg.setmod' from 'C:\\Users\\fazlu\\PycharmProjects\\pythonFunctions\\setpkg\\setmod.py'> and 15
+ERROR at 2022-02-23 12:57:22 in logerror in 'logmod.py't line 21: The function stadd errored out without processing
+ERROR at 2022-02-23 12:57:22 in logerror in 'logmod.py't line 22: 'module' object is not iterable
+INFO at 2022-02-23 12:57:22 in loginfo in 'logmod.py't line 17: The function stadd is completed
+INFO at 2022-02-23 12:57:22 in loginfo in 'tuplemod.py't line 12: The function tpcount is called to process (1, 2, 3, 4, 5, 6, 3, 3) and 3
+INFO at 2022-02-23 12:57:22 in loginfo in 'tuplemod.py't line 14: The function tpcount is completed
